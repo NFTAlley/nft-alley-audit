@@ -7,7 +7,7 @@ import "openzeppelin-solidity/contracts/access/Ownable.sol";
 import "./ERC20Permit.sol";
 
 
-contract AlleyToken is ERC20,Ownable{
+contract AlleyToken is ERC20,Ownable,ERC20Permit{
 
     // Max Supply of 10000000 with 18 decimals
     uint256 public constant MAX_CAP = 10 * (10**6) * (10**18);
