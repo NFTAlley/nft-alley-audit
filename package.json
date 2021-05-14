@@ -20,7 +20,7 @@
     "chai": "^4.2.0",
     "openzeppelin-contracts": "^4.0.0",
     "openzeppelin-eth": "^2.2.0",
-    "openzeppelin-solidity": "^3.3.0",
+    "openzeppelin-solidity": "^4.0.0",
     "openzeppelin-test-helpers": "^0.5.1",
     "truffle": "^5.1.63",
     "zeppelin-solidity": "^1.12.0"
@@ -45,7 +45,7 @@
     "ethereumjs-util": "^5.2.0",
     "ethjs-abi": "^0.2.1",
     "ganache-cli": "6.1.0",
-    "openzeppelin-solidity": "^2.5.0",
+    "openzeppelin-solidity": "4.1.0",
     "solidity-coverage": "^0.5.4",
     "solium": "^1.1.7",
     "truffle": "5.3.1",
