@@ -45,7 +45,7 @@
     "ethereumjs-util": "^5.2.0",
     "ethjs-abi": "^0.2.1",
     "ganache-cli": "6.1.0",
-    "openzeppelin-solidity": "^2.5.0",
+    "openzeppelin-solidity": "^3.3.0",
     "solidity-coverage": "^0.5.4",
     "solium": "^1.1.7",
     "truffle": "5.3.1",
